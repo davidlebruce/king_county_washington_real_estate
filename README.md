@@ -32,8 +32,9 @@ The data provided by Flatiron School, NYC had roughly 17,000 rows of houses with
 ### Navigation
 - `Final_Notebook.ipynb`: Finalization of preprocessing and data analysis contains model used to predict on holdout data
 - `Exploration_Folder`: Folder containing initial exploration into data and statistical tests
+- `Predict_holdout.ipynb`: Where holdout data is predicted and sent to .csv
 - `kc_house_data_test_features.csv`: Holdout set of data to predict on (no 'price' column)
 - `kc_house_data_train.csv`: Training dataset
-- `Predict_holdout`: Where holdout data is predicted and sent to .csv
+- `housing_preds_david_bruce.csv`: My price predictions on the holdout set
 - `model.pickle`: Model from Final_Notebook used on holdout data
 
