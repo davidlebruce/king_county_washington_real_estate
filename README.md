@@ -1,6 +1,6 @@
 # King County Housing Price Predictive Model
 
-<img src="images/seattle.png">
+<img src="images/seattle_skyline.png">
 
 ![img](./images/seattle)
 
