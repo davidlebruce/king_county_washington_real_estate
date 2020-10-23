@@ -12,11 +12,13 @@ Given a set of data about the housing market in King County, Washington by the F
 
 ## The Data
 
-The data provided by Flatiron School, NYC had roughly 17,000 rows of houses with 20 columns of descriptive numerical data. There were no missing values in the initial dataset, so minimal cleaning was done by me. Just from basic knowledge of real estate, one could start to come up with ideas about what factors are most important to buyers and sellers of houses. 
+The data provided by Flatiron School, NYC had roughly 17,000 rows of houses with 20 columns of descriptive numerical data. There were no missing values in the initial dataset, so minimal cleaning was done by me. Just from basic knowledge of real estate, one could start to come up with ideas about what factors are most important to buyers and sellers of houses. Below I've shown how your intuition about home sale prices and when they were built and when they were renovated impacts the price. The trends show that if a house is old, it will tend to sell for less, unless it has been renovated recently.
+
+![img](./images/year_built.png)   ![img](./images/year_renovated.png)
 
 ## Methods
 
-I used a variety of methods to try to improve my linear regression model. I played with polynomial interactions and ran two-sample t-tests on different sample means. 
+I used a variety of methods to try to improve my linear regression model. I played with polynomial interactions which would ultimately provide me with my best performing model.
 
 ## Conclusions & Next Steps
 
