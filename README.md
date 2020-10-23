@@ -6,10 +6,12 @@
 
 ## Overview
 
+Given a set of data about the housing market in King County, Washington by the Flatiron School, NYC, the task to perform was to create the best predictive model for a house's sale price. My goal was to take the 17,000+ rows of data and break them up into a set of training data and testing data to find the best performing model based on the lowest RMSE. I would then aggregate all the data to train my best performing model on, to then put it to one final test on a set of holdout data with no price column.
+
 
 ## The Data
 
-
+The data provided by Flatiron School, NYC had roughly 17,000 rows of houses with 20 columns of descriptive numerical data. There were no missing values in the initial dataset, so minimal cleaning was done by me. I spent time engineering a few extra columns 
 ## Methods
 
 
