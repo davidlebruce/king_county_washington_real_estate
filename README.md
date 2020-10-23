@@ -2,7 +2,7 @@
 
 <img src="images/seattle_skyline.png">
 
-![img](./images/seattle)
+![img](./images/seattle.jpg)
 
 **Author**: [David Bruce](mailto:david.bruce14@gmail.com)
 
