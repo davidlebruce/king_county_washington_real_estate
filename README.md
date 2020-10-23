@@ -1,5 +1,6 @@
 # King County Housing Price Predictive Model
 
+![img](./images/seattle.png)
 
 **Author**: [David Bruce](mailto:david.bruce14@gmail.com)
 
@@ -37,4 +38,5 @@ The data provided by Flatiron School, NYC had roughly 17,000 rows of houses with
 - `kc_house_data_train.csv`: Training dataset
 - `housing_preds_david_bruce.csv`: My price predictions on the holdout set
 - `model.pickle`: Model from Final_Notebook used on holdout data
+- `images`: Folder containing images used in repository
 
