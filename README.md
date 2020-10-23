@@ -1,9 +1,5 @@
 # King County Housing Price Predictive Model
 
-<img src="images/seattle_skyline.png">
-
-![img](./images/seattle.jpg)
-
 **Author**: [David Bruce](mailto:david.bruce14@gmail.com)
 
 
