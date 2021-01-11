@@ -35,12 +35,8 @@ Given more time I would have liked to explore more with feature engineering and 
 - Look for the ratio between listings and sales throughout a year. Domain research indiates that is an important seasonal variable. 
 
 ### Navigation
-- `Final_Notebook.ipynb`: Finalization of preprocessing and data analysis contains model used to predict on holdout data
-- `Exploration_Folder`: Folder containing initial exploration into data and statistical tests
-- `Predict_holdout.ipynb`: Where holdout data is predicted and sent to .csv
-- `kc_house_data_test_features.csv`: Holdout set of data to predict on (no 'price' column)
-- `kc_house_data_train.csv`: Training dataset
-- `housing_preds_david_bruce.csv`: My price predictions on the holdout set
-- `model.pickle`: Model from Final_Notebook used on holdout data
+- `data`: Contains training data and holdout dataset without target column
 - `images`: Folder containing images used in repository
-
+- `modeling`: Contains notebooks for experimenting with EDA and modeling, as well as a few statistical tests performed
+- `Final_Notebook.ipynb`: Finalization of preprocessing and data analysis contains model used to predict on holdout data
+- `Predict_holdout.ipynb`: Where holdout data is predicted and sent to .csv
