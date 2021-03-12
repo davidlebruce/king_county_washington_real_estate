@@ -32,7 +32,7 @@ Given more time I would have liked to explore more with feature engineering and 
 
 - Scrape the web for zipcode census data to enrich the my spatial data
 - Scrape the web for locations of schools and public transport to increase spatial data
-- Look for the ratio between listings and sales throughout a year. Domain research indiates that is an important seasonal variable. 
+- Look for the ratio between listings and sales throughout a year, domain research indiates that is an important seasonal variable. 
 
 ### Navigation
 - `data`: Contains training data and holdout dataset without target column
